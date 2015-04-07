@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    int a=20;
+    NSLog(@"how old are you.\n");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
