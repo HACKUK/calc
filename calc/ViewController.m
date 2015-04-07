@@ -20,6 +20,7 @@
     NSLog(@"how old are you.\n");
     int b=10;
     int c=30;
+    int d=0;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
